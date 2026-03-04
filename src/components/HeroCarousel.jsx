@@ -13,7 +13,7 @@ function HeroCarousel() {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrent((prev) => (prev + 1) % images.length);
-    }, 3000); // تبدل كل 3 ثواني
+    }, 3000);
     return () => clearInterval(interval);
   }, []);
 

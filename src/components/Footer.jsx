@@ -1,4 +1,3 @@
-import "./Footer.css";
 import "./footer.css"
 import { MdOutlineMail } from "react-icons/md";
 import { IoMdCall } from "react-icons/io";
@@ -12,7 +11,7 @@ const Footer = () => {
       <div className="footer-container">
 
         <div className="footer-section">
-          <h2 className="footer-logo"><img src="logo.png" width='100px'/></h2>
+          <h2 className="footer-logo"><img src="logo.png" width='100px' /></h2>
           <p className="footer-text">
             Best football jerseys from the top clubs and national teams.
           </p>
@@ -29,9 +28,9 @@ const Footer = () => {
 
         <div className="footer-section">
           <h3 className="footer-title">Contact</h3>
-          <p><MdOutlineMail className="footer-icon"/> hachaayoub88@gmail.com</p>
-          <p><IoMdCall className="footer-icon"/> +212 771980164</p>
-          <p><IoLocationOutline className="footer-icon"/> Morocco, Casablanca</p>
+          <p><MdOutlineMail className="footer-icon" /> hachaayoub88@gmail.com</p>
+          <p><IoMdCall className="footer-icon" /> +212 771980164</p>
+          <p><IoLocationOutline className="footer-icon" /> Morocco, Casablanca</p>
         </div>
 
       </div>

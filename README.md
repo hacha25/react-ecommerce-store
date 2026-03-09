@@ -2,6 +2,11 @@
 
 Bienvenue sur **hacha Store**, une application e-commerce moderne construite avec React et Vite. Ce projet démontre une expérience d'achat entièrement fonctionnelle avec des fonctionnalités telles que la navigation dans les produits, la gestion du panier et les détails des produits.
 
+## 🚀 Live Demo
+
+🔗 https://react-ecommerce-store-seven.vercel.app/
+
+---
 ## 🚀 Fonctionnalités
 
 - **Page d'accueil** : Produits en vedette et bannières promotionnelles.
